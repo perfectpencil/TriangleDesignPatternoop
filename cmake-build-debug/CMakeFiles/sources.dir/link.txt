@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc ..\lib\libsources.a  CMakeFiles/sources.dir/src/BubbleSort.cpp.obj CMakeFiles/sources.dir/src/Distance.cpp.obj CMakeFiles/sources.dir/src/Test_Main.cpp.obj CMakeFiles/sources.dir/src/Test_Triangles.cpp.obj CMakeFiles/sources.dir/src/Triangles.cpp.obj CMakeFiles/sources.dir/src/main.cpp.obj
+C:\MinGW\bin\ranlib.exe ..\lib\libsources.a

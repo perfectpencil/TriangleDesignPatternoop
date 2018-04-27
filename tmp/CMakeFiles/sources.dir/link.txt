@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libsources.a  CMakeFiles/sources.dir/src/BubbleSort.cpp.o CMakeFiles/sources.dir/src/Distance.cpp.o CMakeFiles/sources.dir/src/Test_Main.cpp.o CMakeFiles/sources.dir/src/Test_Triangles.cpp.o CMakeFiles/sources.dir/src/Triangles.cpp.o CMakeFiles/sources.dir/src/main.cpp.o
+/usr/bin/ranlib ../lib/libsources.a
