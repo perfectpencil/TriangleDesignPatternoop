@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/Test_Triangles.dir/src/Test_Triangles.cpp.o CMakeFiles/Test_Triangles.dir/src/Test_Main.cpp.o CMakeFiles/Test_Triangles.dir/src/Triangles.cpp.o CMakeFiles/Test_Triangles.dir/src/Distance.cpp.o CMakeFiles/Test_Triangles.dir/src/BubbleSort.cpp.o  -o ../bin/Test_Triangles -lpthread ../lib/libgtest.a ../lib/libsources.a -lpthread 

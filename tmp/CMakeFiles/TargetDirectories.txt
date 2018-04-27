@@ -1,5 +1,0 @@
-/mnt/c/Users/Candy/projects/TrianglesDesignPatternoop/tmp/CMakeFiles/edit_cache.dir
-/mnt/c/Users/Candy/projects/TrianglesDesignPatternoop/tmp/CMakeFiles/sources.dir
-/mnt/c/Users/Candy/projects/TrianglesDesignPatternoop/tmp/CMakeFiles/Test_Triangles.dir
-/mnt/c/Users/Candy/projects/TrianglesDesignPatternoop/tmp/CMakeFiles/gtest.dir
-/mnt/c/Users/Candy/projects/TrianglesDesignPatternoop/tmp/CMakeFiles/rebuild_cache.dir
